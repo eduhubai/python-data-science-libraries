@@ -30,11 +30,11 @@ Welcome to the hands-on tutorial for essential Python libraries in data science.
 
 ## Getting Started
 
-1. **Clone the Repository:**
+### 1. Clone the Repository:
    ```sh
    git clone https://github.com/eduhubai/python-data-science-libraries.git
 
-2. ## How to Open a Jupyter Notebook from GitHub in Google Colab
+### 2. How to Open a Jupyter Notebook from GitHub in Google Colab
   - Navigate to the notebook file on GitHub.
   - Copy the URL of the notebook file.
   - Open Google Colab in your web browser: Google Colab.
@@ -45,7 +45,7 @@ Welcome to the hands-on tutorial for essential Python libraries in data science.
   - Click on the Search icon next to the text box.
   - Select the notebook from the list that appears.
 
-3. **Dataset:**
+### 3. Dataset:
 
 - The Titanic dataset is included in the repository.
 
