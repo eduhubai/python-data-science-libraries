@@ -9,6 +9,7 @@ This repository contains resources and hands-on tutorials for learning essential
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
+- [How to Open a Jupyter Notebook from GitHub in Google Colab](#how-to-open-a-jupyter-notebook-from-github-in-google-colab)
 - [Tutorial Sections](#tutorial-sections)
   - [NumPy: Numerical Computations](#numpy-numerical-computations)
   - [Pandas: Data Manipulation](#pandas-data-manipulation)
@@ -33,11 +34,17 @@ Welcome to the hands-on tutorial for essential Python libraries in data science.
    ```sh
    git clone https://github.com/eduhubai/python-data-science-libraries.git
 
-2. **Access the Hands-on File:**
+2. **How to Open a Jupyter Notebook from GitHub in Google Colab**
+- Navigate to the notebook file on GitHub.
+- Copy the URL of the notebook file.
+- Open Google Colab in your web browser: Google Colab.
+- Click on the File menu.
+- Select Open notebook.
+- In the Open notebook dialog, go to the GitHub tab.
+- Paste the URL of the notebook file into the text box.
+- Click on the Search icon next to the text box.
+- Select the notebook from the list that appears.
 
-- Open the repository on GitHub.
-- Navigate to the hands-on file.
-- Click on the "Open in Colab" button or use the URL to open the file in Google Colab.
 3. **Dataset:**
 
 - The Titanic dataset is included in the repository.
