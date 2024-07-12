@@ -1,6 +1,6 @@
 # Python Data Science Libraries
 
-Follow along with our video tutorial on YouTube:(https://www.youtube.com/watch?v=7WB8sodv9Gc)
+Follow along with our video tutorial on [YouTube](https://www.youtube.com/watch?v=7WB8sodv9Gc):
 
 This repository contains resources and hands-on tutorials for learning essential Python libraries used in data science. Using the Titanic dataset, you'll learn how to perform numerical operations, data manipulation, create visualizations, and build a machine learning model to predict passenger survival.
 
